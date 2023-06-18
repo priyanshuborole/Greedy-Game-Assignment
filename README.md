@@ -5,7 +5,7 @@ NewsBreeze is an unofficial news app that uses the News API to fetch the latest 
 
 # Application Install
 
-***You can Install and test latest MusicX app from below 👇***
+***You can Install and test latest Newsbreeze app from below 👇***
 
 [![NewsBreeze](https://img.shields.io/badge/Newsbreeze✅-APK-red.svg?style=for-the-badge&logo=android)](https://drive.google.com/file/d/1zT3zHbZm7ne77H6M0YKHcnQBLSVyt76C/view?usp=sharing)
 
