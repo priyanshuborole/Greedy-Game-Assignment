@@ -1,4 +1,3 @@
-# Greedy-Game-Assignment!
 # **NewsBreeze** 
 
 NewsBreeze is an unofficial news app that uses the News API to fetch the latest breaking news articles and presents them to the user in a user-friendly interface. The app allows users to view article details, save articles for later reading, search for articles by title, and sort articles by date and publication. It also includes offline caching of news articles.
