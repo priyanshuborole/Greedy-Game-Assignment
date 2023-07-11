@@ -87,12 +87,6 @@ In case of no internet connection, the app caches news articles locally on the u
 
 ## Architecture
 This app uses [***CLean Architecture + MVVM***] architecture
-
-## Next plans
-- Pagination
-- Shimmer effect
-- Test cases
-Due to time constraint, was not able to implement all things
   
 ---
   
